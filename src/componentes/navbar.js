@@ -37,4 +37,4 @@ const MyNavbar = () => {
   );
 }
 
-export default MyNavbar;
+export default navbar;
