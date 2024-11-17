@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-
+import navbar from '/components/navbar.js'
 function App() {
   return (
     <div className="App">
+    <MyNavbar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
